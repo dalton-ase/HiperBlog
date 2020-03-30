@@ -6,3 +6,5 @@ daniel tiene 39 años cuando toma el curso
 
 
 Hoy hablaremos de mi vida
+
+Realiza curso de git
