@@ -5,3 +5,10 @@ body
     align-items: center;
     color: chocolate;
 }
+
+p
+{
+    font-size: larger;
+    color: darkblue;
+    font-family: sans-serif;
+}
