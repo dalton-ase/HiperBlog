@@ -18,9 +18,14 @@ h1 {
 }
 div {
     border: greenyellow;
-    margin: 100px;
+    margin: 50px;
 }
 img {
     margin: 50px;
     outline-color: lawngreen;
+}
+.container {
+    margin: 10%;
+    padding: 10%;
+    border: lightcoral;
 }
